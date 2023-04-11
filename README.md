@@ -1,10 +1,10 @@
 # Hi and welcome to my github page.
 
-I’m @tuminguyen, I am from Vietnam and currently be a master's student in Computer Science at University of Oulu.
+I’m @tuminguyen, I am from Vietnam and currently be a Ph.D student in Computer Science at University of Oulu.
 
-- 👀 I’m interested in IoT, Machine/Robot Vision, distributed computing.
+- 👀 I’m interested in Federated Learning, Robot Vision, distributed computing and IoT.
 - 💞️ I’m always looking for a chance to collaborate and work in an IoT or fault tolerance in distributed system to expand my knowledge on what I haven't experienced before.  
-- 📫 Since you are warmly welcomed for a technical talk and discussion, please reach me at: **Huong.Nguyen@oulu.fi**  
+- 📫 Since you are all warmly welcomed for a technical discussion, please reach me at: **Huong.Nguyen@oulu.fi** or **huongnm.ptit@gmail.com**
 - Please come to visit my homepage and read all the blogs I have created via [here](https://tuminguyen.github.io/hmnguyen.github.io/index.html). Source code: [hmnguyen.github.io](https://github.com/tuminguyen/hmnguyen.github.io)
 
 <!---
